@@ -1,4 +1,4 @@
-import asyncio
+#import asyncio
 from tkinter.filedialog import askopenfile
 from tkinter.filedialog import asksaveasfile 
 from time import sleep
@@ -14,9 +14,9 @@ import subprocess
 import threading
 import requests
 from bs4 import BeautifulSoup as bs
-import pyperclip,time
+import time
 from bottle import route, run
-import os,subprocess,re
+
 #import pyperclip 'http://192.168.43.1:8080/'
 def sync():
    
