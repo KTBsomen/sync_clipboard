@@ -1,4 +1,4 @@
-import asyncio
+#import asyncio
 from tkinter.filedialog import askopenfile
 from tkinter.filedialog import asksaveasfile 
 from time import sleep
